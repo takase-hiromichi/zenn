@@ -7,3 +7,8 @@ published: false
 ---
 
 a
+あああ
+
+あ
+
+![](/images/install_zabbix_for_ubuntu_22_lts/test.png)
