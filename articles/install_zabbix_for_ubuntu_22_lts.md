@@ -6,5 +6,4 @@ topics: ["AWS", "Zabbix"]
 published: false
 ---
 
-aaa
 a
